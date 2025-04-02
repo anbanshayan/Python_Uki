@@ -8,5 +8,5 @@ def f():
 
 f()
 
-print(x)
-print(y)
+
+print(31,3,2025,sep="-")
